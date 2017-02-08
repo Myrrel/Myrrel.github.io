@@ -1,4 +1,4 @@
-﻿body{
+body{
 	font-size: 16px;
 	background-color: #fff;
 	color: #000;
@@ -371,5 +371,14 @@ footer a {
 		border-right-width: 14px;
 		left: -14px;
 		right: auto;
+	}
+}
+
+@media (min-width: 700px) { 
+	body{
+		font-size: 22px;
+		background-color: #fff;
+		color: #000;
+		margin: 0px;
 	}
 }
