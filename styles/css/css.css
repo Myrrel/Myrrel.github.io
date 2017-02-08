@@ -127,8 +127,8 @@ h2{
 		border: 1px solid rgba(0,0,0,0.2); 
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
-		padding: 0 10px;
-	margin-bottom: 5%;
+		padding: 0 10%;
+		margin-bottom: 5%;
 }
 
 .card:hover {
@@ -376,7 +376,7 @@ footer a {
 
 @media (min-width: 700px) { 
 	body{
-		font-size: 22px;
+		font-size: 20px;
 		background-color: #fff;
 		color: #000;
 		margin: 0px;
